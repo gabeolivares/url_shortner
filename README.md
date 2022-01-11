@@ -1,6 +1,8 @@
-# TaskRabbit Coding Exercise
+# Coding Exercise
 
-For this coding exercise, you'll be designing a URL shortener, similar to [Bitly](https://bitly.com/) or [Rebrandly](https://www.rebrandly.com/). Shortened URLs help people share a URL easily across social media platforms.
+This was done in 1 hour for a coding interview. The code has not been maintained or edited since the interview. It currently works as intended.
+
+Directions: For this coding exercise, you'll be designing a URL shortener, similar to [Bitly](https://bitly.com/) or [Rebrandly](https://www.rebrandly.com/). Shortened URLs help people share a URL easily across social media platforms.
 
 ## Setup
 
